@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rena 🦌,
 
  - 👩‍🎓 I'm currently looking for a job.
- - ✨ I would like to be an analyist.
+ - ✨ I would like to be an analyst.
  - 🏃‍♀️ I'm currently working on a Kaggle competition _I’m Something of a Painter Myself_.
 
 <!--
