@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rena 🦌,
 
- - 👩‍🎓 I'm currently searching for a job.
- - ✨ I would like to be an analytist.
- - 🏃‍♀️ I'm currently working on a Kaggle competition _I’m Something of a Painter Myself_
+ - 👩‍🎓 I'm currently looking for a job.
+ - ✨ I would like to be an analyist.
+ - 🏃‍♀️ I'm currently working on a Kaggle competition _I’m Something of a Painter Myself_.
 
 <!--
 **renrenrr/renrenrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
