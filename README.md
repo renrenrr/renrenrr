@@ -1,8 +1,7 @@
-### Hi there 👋, I'm Rena 🦌,
+### Hi there 👋, I'm Renren(Rena) 🦌,
 
- - 👩‍🎓 I'm currently looking for a job.
- - ✨ I would like to be an analyst.
- - 🏃‍♀️ I'm currently working on a Kaggle competition _I’m Something of a Painter Myself_.
+ - 👩‍🎓 I'm a second year PhD candidate at the Department of Economics, Leiden University.
+ - ✨ My current research topic is about child penalty in the Netherlands.
 
 <!--
 **renrenrr/renrenrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
