@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Renren(Rena) 🦌,
 
  - 👩‍🎓 I'm a third year PhD candidate at the Department of Economics, Leiden University.
- - ✨ My research topic is focused on inequality (especially in the labour market outcomes), and here are my research projects:
-  - Child penalty in the Netherlands
-  - Ongoing...
+ - ✨ My research topic is focused on inequality (especially in the labour market outcomes).
  
 
 <!--
