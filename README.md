@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Renren(Rena) 🦌,
 
- - 👩‍🎓 I'm a second year PhD candidate at the Department of Economics, Leiden University.
- - ✨ My current research topic is about child penalty in the Netherlands.
+ - 👩‍🎓 I'm a third year PhD candidate at the Department of Economics, Leiden University.
+ - ✨ My research topic is focused on inequality (especially in the labour market outcomes), and here are my research projects:
+  - Child penalty in the Netherlands
+  - Ongoing...
+ 
 
 <!--
 **renrenrr/renrenrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
